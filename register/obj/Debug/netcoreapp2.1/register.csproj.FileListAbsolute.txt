@@ -1,0 +1,14 @@
+C:\Users\Lakshmi Reddy\source\repos\register\register\bin\Debug\netcoreapp2.1\register.deps.json
+C:\Users\Lakshmi Reddy\source\repos\register\register\bin\Debug\netcoreapp2.1\register.runtimeconfig.json
+C:\Users\Lakshmi Reddy\source\repos\register\register\bin\Debug\netcoreapp2.1\register.runtimeconfig.dev.json
+C:\Users\Lakshmi Reddy\source\repos\register\register\bin\Debug\netcoreapp2.1\register.dll
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.csprojAssemblyReference.cache
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.RazorAssemblyInfo.cache
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.RazorAssemblyInfo.cs
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.AssemblyInfoInputs.cache
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.AssemblyInfo.cs
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.RazorTargetAssemblyInfo.cache
+C:\Users\Lakshmi Reddy\source\repos\register\register\bin\Debug\netcoreapp2.1\register.pdb
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.dll
+C:\Users\Lakshmi Reddy\source\repos\register\register\obj\Debug\netcoreapp2.1\register.pdb
